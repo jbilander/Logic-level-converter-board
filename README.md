@@ -22,5 +22,7 @@ A bi-directional high-speed TTL-Compatible level shifter board 5V &lt;-> 3V3 for
     Barell Jack 5.5x2.1mm
     SN74CBTD16211 TSSOP-56_6.1x14mm_P0.5mm   https://www.ti.com/lit/ds/symlink/sn74cbtd16211.pdf
     Power +5V center pin positive or via pinheader (verify polarity before connecting)
+    2.54 mm jumpers to enable/disable /1OE (first 12-bits) and /2OE (second 12-bits), either enable with GND or disable via VCC.
+    2.54 mm jumpers to disable unused inputs via jumoer to GND.
     
 Happy Tinkering!
