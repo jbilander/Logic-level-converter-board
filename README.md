@@ -10,6 +10,10 @@ A bi-directional high-speed TTL-Compatible level shifter board 5V &lt;-> 3V3 for
 <a href="images/screenshot_pic2.png">
 <img src="images/screenshot_pic2.png" width="312" height="296">
 </a>
+<a href="images/SW_7x7x12mm_DPDT.jpg">
+<img src="images/SW_7x7x12mm_DPDT.jpg" width="200" height="200">
+</a>
+
 
 
     BOM
