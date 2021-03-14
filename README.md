@@ -1,5 +1,5 @@
 # Logic-level-converter-board
-A bi-directional high-speed TTL-Compatible level shifter board 5V &lt;-> 3V3 for tinkering
+A bi-directional high-speed TTL-Compatible level shifter board 5V ⇄ 3V3 for tinkering
 
 
 ***
@@ -32,7 +32,7 @@ C1 | 10-100 uF   | 1210
 C2 | 0.1 uF      | 1206
 U1 | SN74CBTD16211 https://www.ti.com/lit/ds/symlink/sn74cbtd16211.pdf| TSSOP-56_6.1x14mm_P0.5mm
  | Pushbutton switch SW_7x7x12mm_DPDT
- | Barell Jack 5.5x2.1mm
+ | Barrel Jack 5.5x2.1mm
  | Power +5V center pin positive or via pinheader (verify polarity before connecting)
  | 2.54 mm jumpers to enable/disable /1OE (first 12-bits) and /2OE (second 12-bits), either enable via jumper to GND or disable via VCC.
  | 2.54 mm jumpers to disable unused inputs via jumper to GND.
@@ -40,4 +40,4 @@ U1 | SN74CBTD16211 https://www.ti.com/lit/ds/symlink/sn74cbtd16211.pdf| TSSOP-56
 
 
 
-Happy Tinkering!
+Happy Tinkerin'
